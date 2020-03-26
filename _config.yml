@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "aqua" #,"default","air" , "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "earthvibes"
+title                    : "Deep Inside the Earth"
 title_separator          : "-"
 name                     : "Yongki Andita Aiman"
-description              : "An amazing website."
+description              : "A Journal."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
