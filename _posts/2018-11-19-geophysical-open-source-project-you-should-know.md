@@ -1,10 +1,3 @@
----
-layout: post
-title:  "Geophysical Open Source Project You Should Know"
-date:   2018-11-19 20:39:51 +0700
-categories: jekyll update
----
-
 There are so many open source projects developed to address unsolved problem in geophysics. Here are some of them.
 
 1. Obspy
