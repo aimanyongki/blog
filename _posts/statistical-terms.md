@@ -5,6 +5,10 @@ the values, or the square of the function that defines the continuous waveform. 
 $${x_1,x_2,...,x_n$$
 
 
+You can use $$\LaTeX$$ to typeset formulas. A formula can be displayed inline, e.g. $$e=mc^2$$, or as a block:
+$$\int_\Omega \nabla u \cdot \nabla v~dx = \int_\Omega fv~dx$$
+Also check out this [LaTeX introduction](https://en.wikibooks.org/wiki/LaTeX/Mathematics).
+
 \{x_{1}$,x_{2},\dots ,x_{n}\}} \{x_{1},x_{2},\dots ,x_{n}\} $, the RMS is
 {\displaystyle x_{\text{RMS}}={\sqrt {{\frac {1}{n}}\left(x_{1}^{2}+x_{2}^{2}+\cdots +x_{n}^{2}\right)}}.} {\displaystyle x_{\text{RMS}}={\sqrt {{\frac {1}{n}}\left(x_{1}^{2}+x_{2}^{2}+\cdots +x_{n}^{2}\right)}}.}
 The corresponding formula for a continuous function (or waveform) f(t) defined over the interval {\displaystyle T_{1}\leq t\leq T_{2}} T_{1}\leq t\leq T_{2} is
