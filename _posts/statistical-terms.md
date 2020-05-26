@@ -2,7 +2,7 @@ Some useful statistical terms:
 1. Root Mean Square  
 The RMS value of a set of values (or a continuous-time waveform) is the square root of the arithmetic mean of the squares of 
 the values, or the square of the function that defines the continuous waveform. In the case of a set of n values 
-$x_1$
+$ x_1 $
 
 
 \{x_{1}$,x_{2},\dots ,x_{n}\}} \{x_{1},x_{2},\dots ,x_{n}\} $, the RMS is
