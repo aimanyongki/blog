@@ -4,7 +4,13 @@ The skype session with my supervisor make me think about what I am gonna do for 
 
 ![Geology Map of Indonesia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Geology_indonesia_map.jpg/800px-Geology_indonesia_map.jpg)
 
-Indonesia is located between two continental plates: the Eurasian Plate (Sunda Plate) and Australian Plate (Sahul Shelf); and between two oceanic plates: the Philippine Sea Plate and Pacific Plate.  
+Indonesia is located between two continental plates: the Eurasian Plate (Sunda Plate) and Australian Plate (Sahul Shelf); and between two oceanic plates: the Philippine Sea Plate and Pacific Plate. Several major and minor plates play important rules to determined the tectonic setting of the Indonesia archipelago.  
+
+from Widiyantoro and van der Hilst (1997):  
+"The junction of island arcs includes the Sunda arc, the Banda arc, the Sangihe arc to the west of the Molucca collision zone (MCZ) and the Halrnahera arc to the east. The Sunda arc, from northwestern Sumatra to Flores, marks the subduction of the IndoAustralian plate beneath the Eurasian plate. The Banda arc to the east of the Sunda arc displays a strong curve in map view."  
+"The strike of the Banda arc used to be east-west, just like the eastern part of the Sunda arc, but it **was twisted** counter-clockwise in the Pliocene due to the combination of the collision with the northward-moving Australian continent, the counter-clockwise rotation of New Guinea, and the westward thrust along the Sorong fault system."
+
+![Indonesia-Tectonics](https://github.com/aimanyongki/blog/blob/master/assets/images/geo_indo_map.png)
 
 # Mantle Structure Beneath
-Mantle Structure Beneath Indonesia has been studied by Widiyantoro and van der Hilst (1997) 
+Mantle Structure Beneath Indonesia has been studied by Widiyantoro and van der Hilst (1997) by applying tomographic inversions of traveltime residuals of direct P and the surface-reflected depth phases pP and pwP. 
