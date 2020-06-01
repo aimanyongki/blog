@@ -19,33 +19,34 @@ Some features on this study:
 "In the top of the lower mantle beneath the eastern part of the Sunda arc, the subducted slab forms a kink, which gradually disappears further west. Beneath Sumatra the image suggests that the slab is detached in the transition zone. The interpreted  'necking' of the slab beneath Java coincides with the pronounced existing seismic gap."  
 "Further east, beneath the curved Banda arc, the twisting of the slab in the upper mantle is well imaged. The vertical section across the arc, along with the anomaly maps, show that the subducted slab is deflected in the transition zone. A counter-clockwise rotation of the arc has resulted in a spoonshaped structure of the slab complex beneath the Banda Sea. This rotation is probably related to the Pliocene continent-arc collision between Australia and Banda."  
   
-  
-  
-   
-
-
-References:  
+<br>  
+<br>  
+<br>   
+<br>
+<br>
+**References:**  
 - Widiyantoro and van der Hilst (1997), Mantle structure beneath Indonesia inferred from high-resolution tomographic imaging, Geophys. J. Int. (1997) 130, 167-182
 - 
   
-  
-  
-  
-
+<br>  
+<br>  
+<br>
 More  
 - Advances in Geophysics: Seismological Structure of Slabs, page 108, "The Indonesian region is one of the more tectonically complex convergent zones, and slab tomography is useful for studying the distorted slab structures. Puspito et al. (1993) developed a P-wave tomography model beneath Indoensia, based on inversion of 118,203 ISC P-wave times for local and teleseismic events."  
 - Tectonics of the Indonesian Region, Warren Hamilton, 1979, free on Google Books
-  
-  
-  
+
+<br>  
+<br>  
+<br>  
 The experts:
 - Robert Hall
 - van der Hilst
 - N.T. Puspito
 - Sri Widiyantoro
-  
-  
-  
+
+<br>  
+<br>  
+<br>  
 Future studies:
 - New and updated mantle structure images using new data (instruments). Treatise on Geophysics: Seismology and Structure of the Earth (2009) referred to the 1997 model. 
 - The used of Ambient Seismic Noise mostly apply for upper crustal images. Possibility open for Lower Crust and the Transition Zone.  
