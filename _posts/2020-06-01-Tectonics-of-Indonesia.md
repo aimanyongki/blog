@@ -12,5 +12,40 @@ from Widiyantoro and van der Hilst (1997):
 
 ![Indonesia-Tectonics](https://github.com/aimanyongki/blog/blob/master/assets/images/geo_indo_map.png)
 
-# Mantle Structure Beneath
-Mantle Structure Beneath Indonesia has been studied by Widiyantoro and van der Hilst (1997) by applying tomographic inversions of traveltime residuals of direct P and the surface-reflected depth phases pP and pwP. 
+## Mantle Structure Beneath Indonesia
+Mantle Structure Beneath Indonesia has been studied by Widiyantoro and van der Hilst (1997) by applying tomographic inversions of traveltime residuals of direct P and the surface-reflected depth phases pP and pwP. The previous studies (did not use depth phases such as pP and pwP) revealed that there are some slabs penetrate beneath e.g. the eastern Sunda arc, Java, and Molusca Sea Plate. The more relatively detail images are obtained likely due to the combination of the use of better data, the use of the ak135 reference velocity model, the inclusion of a global inversion in the regional study, the use of depth phases and the use of gradient damping.  
+
+Some features on this study:  
+"In the top of the lower mantle beneath the eastern part of the Sunda arc, the subducted slab forms a kink, which gradually disappears further west. Beneath Sumatra the image suggests that the slab is detached in the transition zone. The interpreted  'necking' of the slab beneath Java coincides with the pronounced existing seismic gap."  
+"Further east, beneath the curved Banda arc, the twisting of the slab in the upper mantle is well imaged. The vertical section across the arc, along with the anomaly maps, show that the subducted slab is deflected in the transition zone. A counter-clockwise rotation of the arc has resulted in a spoonshaped structure of the slab complex beneath the Banda Sea. This rotation is probably related to the Pliocene continent-arc collision between Australia and Banda."  
+  
+  
+  
+   
+
+
+References:  
+- Widiyantoro and van der Hilst (1997), Mantle structure beneath Indonesia inferred from high-resolution tomographic imaging, Geophys. J. Int. (1997) 130, 167-182
+- 
+  
+  
+  
+  
+
+More  
+- Advances in Geophysics: Seismological Structure of Slabs, page 108, "The Indonesian region is one of the more tectonically complex convergent zones, and slab tomography is useful for studying the distorted slab structures. Puspito et al. (1993) developed a P-wave tomography model beneath Indoensia, based on inversion of 118,203 ISC P-wave times for local and teleseismic events."  
+- Tectonics of the Indonesian Region, Warren Hamilton, 1979, free on Google Books
+  
+  
+  
+The experts:
+- Robert Hall
+- van der Hilst
+- N.T. Puspito
+- Sri Widiyantoro
+  
+  
+  
+Future studies:
+- New and updated mantle structure images using new data (instruments). Treatise on Geophysics: Seismology and Structure of the Earth (2009) referred to the 1997 model. 
+- The used of Ambient Seismic Noise mostly apply for upper crustal images. Possibility open for Lower Crust and the Transition Zone.  
