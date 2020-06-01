@@ -24,6 +24,7 @@ Some features on this study:
 <br>   
 <br>
 <br>
+
 **References:**  
 - Widiyantoro and van der Hilst (1997), Mantle structure beneath Indonesia inferred from high-resolution tomographic imaging, Geophys. J. Int. (1997) 130, 167-182
 - 
@@ -31,6 +32,7 @@ Some features on this study:
 <br>  
 <br>  
 <br>
+
 More  
 - Advances in Geophysics: Seismological Structure of Slabs, page 108, "The Indonesian region is one of the more tectonically complex convergent zones, and slab tomography is useful for studying the distorted slab structures. Puspito et al. (1993) developed a P-wave tomography model beneath Indoensia, based on inversion of 118,203 ISC P-wave times for local and teleseismic events."  
 - Tectonics of the Indonesian Region, Warren Hamilton, 1979, free on Google Books
@@ -38,6 +40,7 @@ More
 <br>  
 <br>  
 <br>  
+
 The experts:
 - Robert Hall
 - van der Hilst
@@ -46,7 +49,8 @@ The experts:
 
 <br>  
 <br>  
-<br>  
+<br> 
+
 Future studies:
 - New and updated mantle structure images using new data (instruments). Treatise on Geophysics: Seismology and Structure of the Earth (2009) referred to the 1997 model. 
-- The used of Ambient Seismic Noise mostly apply for upper crustal images. Possibility open for Lower Crust and the Transition Zone.  
+- The used of Ambient Seismic Noise mostly apply for upper crustal images -> Whole (Lower) Crust and the Transition Zone.  
