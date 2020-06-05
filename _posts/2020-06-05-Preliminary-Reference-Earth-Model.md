@@ -28,5 +28,5 @@ The set of normal mode data consists of about 900 modes.
 
 ## Inversion and the final model
 
-![The PREM Model](https://github.com/aimanyongki/blog/blob/master/assets/images/Selection_202.png)
+![The PREM Model](https://github.com/aimanyongki/blog/blob/master/assets/images/PREM.png)
 ## Discussion
