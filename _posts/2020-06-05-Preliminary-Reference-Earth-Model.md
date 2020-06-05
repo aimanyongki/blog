@@ -1,5 +1,4 @@
-The 1980 paper written by Adam M. Dziewonski and Don L. Anderson is one of the most cited scientific work ever. The study presented a new Earth model, PREM, that satisfies the guidelines established by the Standard Earth Model (SEM) Committee. In order to construct the model, it is required to generalized several 
-The assumptions used in the study as the trial starting value includes the oceanic crust covers two-thirds of the Earth's surface and the average depth to the Moho is 19 km for the average Earth (11 km under the oceans 35 km under continents).  
+The 1980 paper written by Adam M. Dziewonski and Don L. Anderson is one of the most cited scientific work ever. The study presented a new Earth model, PREM, that satisfies the guidelines established by the Standard Earth Model (SEM) Committee. The assumptions used in the study as the trial starting value includes the oceanic crust covers two-thirds of the Earth's surface and the average depth to the Moho is 19 km for the average Earth (11 km under the oceans 35 km under continents).   
 Also it is recognized the following principal regions within the Earth:  
 1. Ocean layer
 2. Upper and lower crust
