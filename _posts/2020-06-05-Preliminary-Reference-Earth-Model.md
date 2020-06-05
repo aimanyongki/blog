@@ -13,6 +13,6 @@ Also it is recognized the following principal regions within the Earth:
 
 The gross Earth data set: Three principal subsets of data:
 1. Astronomic-geodetic data
-Radius of the Earth: $$6371 km$$. Mass: $$5.974x10^24 kg$$. I/MR^2: 0.3308. These values were used as constraints.
+Radius of the Earth: $$ 6371 km $$. Mass: $$5.974x10^24 kg$$. I/MR^2: 0.3308. These values were used as constraints.
 2. Free oscillation and long-period surface-wave data
 3. Body waves
