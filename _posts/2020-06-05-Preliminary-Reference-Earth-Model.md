@@ -1,4 +1,7 @@
-The 1980 paper written by Adam M. Dziewonski and Don L. Anderson is one of the most cited scientific work ever. The study presented a new Earth model, PREM, that satisfies the guidelines established by the Standard Earth Model (SEM) Committee. The assumptions used in the study as the trial starting value includes the oceanic crust covers two-thirds of the Earth's surface and the average depth to the Moho is 19 km for the average Earth (11 km under the oceans 35 km under continents). 
+The 1980 paper written by Adam M. Dziewonski and Don L. Anderson is one of the most cited scientific work ever. The study presented a new Earth model, PREM, that satisfies the guidelines established by the Standard Earth Model (SEM) Committee. 
+
+## The concept of the model
+The assumptions used in the study as the trial starting value includes the oceanic crust covers two-thirds of the Earth's surface and the average depth to the Moho is 19 km for the average Earth (11 km under the oceans 35 km under continents). 
 
 Also it is recognized the following principal regions within the Earth:
 1. Ocean layer
@@ -11,8 +14,19 @@ Also it is recognized the following principal regions within the Earth:
 8. Outer core
 9. Inner core
 
-The gross Earth data set: Three principal subsets of data:
+## The gross Earth data set: Three principal subsets of data:
 1. Astronomic-geodetic data
-Radius of the Earth: $$ 6371 km $$. Mass: $$5.974x10^24 kg$$. I/MR^2: 0.3308. These values were used as constraints.
+Radius of the Earth: `6371 km`. Mass: `5.974x10^24 kg`. I/MR^2: `0.3308`. These values were used as constraints.
 2. Free oscillation and long-period surface-wave data
+There is an impressive set of measurements of eigenfrequencies for over 1000 normal modes. The precision of measurements varies appreciably: from up to `4x 10^-3` for some of the toroidal overtones to the `4x 10^-6`  for the fundamental radial mode.
+The set of normal mode data consists of about 900 modes. 
 3. Body waves
+
+##
+
+##
+
+## Inversion and the final model
+
+![The PREM Model](https://github.com/aimanyongki/blog/blob/master/assets/images/Selection_202.png)
+## Discussion
