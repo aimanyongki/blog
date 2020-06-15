@@ -1,4 +1,5 @@
 Following an actual earthquake, the displacement of any point of the Earth's surface is markedly different from waves through only a homogeneous medium. There are oscillatory movements being due to one or more of the following causes:  
+
 (i)   the existence of more complicated initial conditions  
 (ii)  fluctuations in the local gravity value during the passage of disturbance  
 (iii) imperfections of elasticity  
@@ -12,3 +13,4 @@ If we consider several cases other than perfect elasticity assumption (elastic a
 
 It emerges that the essenial cause of the observed oscillatory movements must be sought in (iv) heterogeneity of the Earth.
 
+We note that these oscillatory movements are observed at points fairly close to the source of an earthquake (as well as at distant points) which indicates the Earth must be markedly heterogeneous. The crustal layer of the Earth (30-40 km thickness) is known for its quite considerable changes in property and likely to account for the observed dispersion bodily waves. 
