@@ -1,3 +1,5 @@
+## Bodily Elastic Wave
+
 Following an actual earthquake, the displacement of any point of the Earth's surface is markedly different from waves through only a homogeneous medium. There are oscillatory movements being due to one or more of the following causes:  
 
 (i)   the existence of more complicated initial conditions  
@@ -14,3 +16,12 @@ If we consider several cases other than perfect elasticity assumption (elastic a
 It emerges that the essenial cause of the observed oscillatory movements must be sought in (iv) heterogeneity of the Earth.
 
 We note that these oscillatory movements are observed at points fairly close to the source of an earthquake (as well as at distant points) which indicates the Earth must be markedly heterogeneous. The crustal layer of the Earth (30-40 km thickness) is known for its quite considerable changes in property and likely to account for the observed dispersion bodily waves. 
+
+<p>
+<p>
+<p>
+<p>
+ 
+## Seismology and the Earth's Upper Layers
+The outermost 40 km of the Earth was once thought composed of a comparatively thin crust resting on material in a fluid or near-fluid state. This is not the case and we shall here use the term _crust_ and _crustal layers_ to refer to the part of the Earth above the Mohorovicic discontinuity. 
+Seismological data on the structure of the crust come from several sources, including studies of bodily wavs in the near earthquakes and exploisons, of phases such as _pP_ in deep-focus earthquakes, and of the dispersion of surface waves from distant earthquakes. 
