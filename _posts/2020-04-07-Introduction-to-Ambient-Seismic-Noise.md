@@ -7,10 +7,27 @@ array of seismometer for example the AlpArray project and the USArray. Both aspe
   
 ## Prerequisite knowledge
 
+<b>
+<b>
+<b>
+<b>
+  
+## the xperts
+- Michael H. Ritzwoller (University of Colorado)
+- Michel Campillo (ISTerre)
+- Barbara A. Romanowicz (UC BErkeley)
+- Nikolai Shapiro (ISTerre)
+- Philippe Roux (ISTerre)
+- Laurent Stehly (ISTerre)
+- Paul Cupillard (University of Lorraine)
+- ..
 
 
-
-
+<b>
+<b>
+<b>
+<b>
+  
 ## Some Papers
 ### Introduction
 1. Aki, K. 1957. Space and time spectra of stationary stochastic waves, with special reference to microtremors. Bull. Earthq. Res. Inst., Univ. Tokyo, 35, 415–457.
