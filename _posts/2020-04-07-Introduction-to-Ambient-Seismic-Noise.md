@@ -7,11 +7,15 @@ array of seismometer for example the AlpArray project and the USArray. Both aspe
   
 ## Prerequisite knowledge
 
-<b>
-<b>
-<b>
-<b>
+&nbsp  
+&nbsp  
+&nbsp  
+&nbsp  
   
+## Everything you should know about ambient noise
+
+
+
 ## the xperts
 - Michael H. Ritzwoller (University of Colorado)
 - Michel Campillo (ISTerre)
@@ -23,10 +27,10 @@ array of seismometer for example the AlpArray project and the USArray. Both aspe
 - ..
 
 
-<b>
-<b>
-<b>
-<b>
+&nbsp  
+&nbsp  
+&nbsp  
+&nbsp  
   
 ## Some Papers
 ### Introduction
