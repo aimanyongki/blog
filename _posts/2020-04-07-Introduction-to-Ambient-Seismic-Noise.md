@@ -3,18 +3,22 @@
 The seismic ambient field is an emerging topic in seismology these days along with rising in implementation of high density 
 array of seismometer for example the AlpArray project and the USArray. Both aspect, the seismic ambient noise research and dense array .... 
   
-  
+<br>
+<br>
   
 ## Prerequisite knowledge
 
-&nbsp  
-&nbsp  
-&nbsp  
-&nbsp  
+<br>
+<br>  
+<br>  
+<br>  
   
 ## Everything you should know about ambient noise
 
-
+<br>
+<br>
+<br>
+<br>
 
 ## the xperts
 - Michael H. Ritzwoller (University of Colorado)
@@ -26,11 +30,10 @@ array of seismometer for example the AlpArray project and the USArray. Both aspe
 - Paul Cupillard (University of Lorraine)
 - ..
 
-
-&nbsp  
-&nbsp  
-&nbsp  
-&nbsp  
+<br>  
+<br>  
+<br>  
+<br>  
   
 ## Some Papers
 ### Introduction
@@ -51,8 +54,8 @@ array of seismometer for example the AlpArray project and the USArray. Both aspe
 
 ### Chapter 2 Beamforming and Polarization Analysis
 
-
-
+<br>
+<br>
 
 ## Noise Sources
 1. Frantti, G., Willis, D., and Wilson, J. T. 1962. The spectrum of seismic noise. Bulletin of the Seismological Society of America, 52(1), 113–121.
