@@ -1,4 +1,4 @@
 One of the important characteristics of surface wave arises from the way in which they disperse. The figure below shows two different waves with the same total energy, but the longer wavelength has its energy spread out over a larger interval. 
-![wavelength and depth](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Surface_wave_penetration.png/1024px-Surface_wave_penetration.png)
+![wavelength and depth](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Surface_wave_penetration.png/1024px-Surface_wave_penetration.png =250x250)
 If earth materials’ elastic parameters yield higher velocities with depth, longer wavelength surface waves will travel faster than those with shorter wavelengths. The variation of velocities with wavelength makes it possible to infer critical information about the subsurface. We recognize two different velocity in the study of wave dispersion: group velocity and phase velocity. 
 ![group and phase velocity](http://resource.isvr.soton.ac.uk/spcg/tutorial/tutorial/Tutorial_files/essaiwave.gif)
